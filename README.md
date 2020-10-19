@@ -9,4 +9,4 @@ I love writing shaders :)
 
 Developed with Unreal Engine 4
 
-![alt text](https://github.com/sayoojjs/GrayBoxShader/GrayBox.jpg)
+![alt text](https://github.com/sayoojjs/GrayBoxShader/blob/master/GrayBox.JPG)
